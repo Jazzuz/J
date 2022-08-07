@@ -49,7 +49,7 @@
       <h2>Get In Touch</h2>
       <h3>Discussing life.</h3>
       <p>Let's Connect and grow together.</p>
-      <a class="btn" href="mailto:name@email.com">To Connect</a>
+      <a class="btn" href="mailto:jaswanth24012001@gmail.com">To Connect</a>
     </div>
   </div>
 
