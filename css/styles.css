@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  text-decoration: none;
+  font-style: normal;
+  font-family: serif;
+  font-family: 'Architects Daughter', cursive;
+  font-family: 'BhuTuka Expanded One', cursive;
+  font-family: 'Dancing Script', cursive;
+}
+
+.top-container {
+  background-color: lightblue;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.top-cloud {
+  display: block;
+  padding-top: 30px;
+  padding-left: 800px;
+
+
+}
+
+h1 {
+  padding-top: 20px;
+  font-size: 75px;
+}
+
+.bottom-cloud {
+  display: block;
+  position: absolute;
+
+  padding-left: 200px;
+}
+
+.mountain {
+  display: inline-block;
+
+
+  position: relative;
+}
+
+hr {
+  border-top: thick dotted grey;
+  width: 5%;
+  border-bottom: none;
+}
+
+p{
+  padding-bottom: 50px;
+  font-size: 25px;
+}
+
+.middle-container {
+  background-color: white;
+  padding-bottom: 0;
+  margin: auto;
+  text-align: center;
+  width: 60%;
+}
+
+h2 {
+  padding-top: 100px;
+  margin-top: 0;
+  font-size: 40px;
+}
+h3{
+  font-size: 25px;
+}
+.skill-row {
+  float: right;
+  padding: 80px;
+}
+
+.chillies {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.computer {
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+.btn {
+  background: #3498db;
+  background-image: linear-gradient(top, #3498db, #2980b9);
+  border-radius: 28px;
+  font-family: 'Architects Daughter', cursive;
+  font-family: 'BhuTuka Expanded One', cursive;
+  font-family: 'Dancing Script', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+
+  background-image: linear-gradient(top bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.bottom-container {
+  background-color: lightblue;
+  margin-bottom: 0;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 8px;
+}
+.footer-link{
+  text-decoration: none;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin: 0;
+  font: thick;
+  color: black;
+}
+.footer-link:hover{
+  color: white;
+}
+.last{
+  padding-top: 30px;
+  color: white;
+  display: block;
+}
